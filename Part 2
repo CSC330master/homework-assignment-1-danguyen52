@@ -1,0 +1,22 @@
+Part 2 for Assignment 1
+
+Linux commands:
+mkdir - make a directory
+cd - current directory to another
+   .. - takes you back to previous directory
+ls - listing files
+   -ltr - list one file per line, sort by time (newest), reverse sorting order	
+cat - prints file on screen
+
+Git commands:
+git config - let's git know the user
+git clone - copies the repo
+git status - checks the status of the repo along with listing any modifications 
+git add - adds files (or group) to be updated
+git commit - commits any changes
+git push - pushes the changes into the repo
+
+i. You can discuss your ideas with classmates for homework, do not do assignments with individuals outside of group.
+ii. You can consult any available resources (printed or online) when doing assignmnets, read and understand any material found.
+iii. The penalty for late assignments is 15% per day.
+iv. The penalty for missing class is 15% off your participation grade.
